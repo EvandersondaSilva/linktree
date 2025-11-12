@@ -26,17 +26,3 @@ Este projeto é uma recriação moderna do **Linktree**, desenvolvido com foco e
 
 ---
 
-## 🧱 Estrutura do projeto
-
-devlink/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── routes/
-│ ├── services/
-│ ├── App.tsx
-│ └── main.tsx
-├── public/
-├── tailwind.config.js
-├── tsconfig.json
-└── vite.config.ts
